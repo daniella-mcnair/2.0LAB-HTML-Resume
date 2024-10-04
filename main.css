@@ -1,0 +1,33 @@
+body{
+  background-color: papayawhip;
+}
+
+article h1 {
+  color:  rgb(201, 122, 53);
+
+}
+
+article h2 {
+  color: rgb(201, 122, 53);
+}
+
+#OP {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-style: dashed;
+  border-color: aqua;
+  border-width: 25px;
+}
+
+#AH {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-style: groove;
+  border-color: brown;
+  border-width: 5px;
+}
+
+#DY {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-style: solid;
+  border-color: rgb(115, 0, 255);
+  border-width: 15px;
+}
